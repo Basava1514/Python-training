@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c827601a-9e46-4eb7-b7c0-2f7dfadeac38" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/test file.py" beforeDir="false" afterPath="$PROJECT_DIR$/test file.py" afterDir="false" />
+    <list default="true" id="c827601a-9e46-4eb7-b7c0-2f7dfadeac38" name="Changes" comment="test of single">
+      <change beforePath="$PROJECT_DIR$/hello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +90,14 @@
       <option name="presentableId" value="Default" />
       <updated>1632809271788</updated>
     </task>
+    <task id="LOCAL-00001" summary="test of single">
+      <created>1632810031791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632810031791</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test of single" />
+    <option name="LAST_COMMIT_MESSAGE" value="test of single" />
   </component>
 </project>
