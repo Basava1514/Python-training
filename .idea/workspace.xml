@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c827601a-9e46-4eb7-b7c0-2f7dfadeac38" name="Changes" comment="test of single">
-      <change beforePath="$PROJECT_DIR$/hello" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello1.py" beforeDir="false" />
+    <list default="true" id="c827601a-9e46-4eb7-b7c0-2f7dfadeac38" name="Changes" comment="deleted empty files">
+      <change afterPath="$PROJECT_DIR$/if loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +28,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Python.test file">
+  <component name="RunManager" selected="Python.if loop">
     <configuration name="hello1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontraining" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -45,6 +44,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="if loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythontraining" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.if loop" />
         <item itemvalue="Python.test file" />
         <item itemvalue="Python.hello1" />
       </list>
@@ -97,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632810031791</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="deleted empty files">
+      <created>1632810679636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632810679636</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test of single" />
-    <option name="LAST_COMMIT_MESSAGE" value="test of single" />
+    <MESSAGE value="deleted empty files" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted empty files" />
   </component>
 </project>
